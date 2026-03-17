@@ -1,19 +1,51 @@
-<h1 align="center">Hi 👋, I'm @GoYabai</h1>
-<h3 align="center">Student from https://camo.githubusercontent.com/862676a8c0a13f25458179aa4c3bd5d75565b2e2e1caafd5eaba789f64acfcd4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f76692f622f62662f4c6f676f5f485545542e737667</h3>
+### 💤 Hello! I'm [Tên của bạn], an AI student.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goyabai&label=Profile%20views&color=0e75b6&style=flat" alt="goyabai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goyabai" alt="goyabai" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&text=About%20me!&fontColor=ffffff&fontSize=40&descAlignY=51&descAlign=62" alt="About me banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+* 🎓 Student from 🌌 VNU-UET, 🇻🇳 Vietnam (Majoring in Artificial Intelligence).
+* 📈 Maintaining a strong academic record (GPA 3.90 in the recent semester).
+* 🌱 Currently deep diving into 🧮 Mathematics (Calculus, Linear Algebra, Differential Equations) and CS Theory.
+* 💻 I love programming in 🔵 C, ➕ C++, and 🐍 Python.
+* 🚀 Recently working on **Suterusu** - a C++ application utilizing AI models via OpenRouter APIs.
+* 🤖 Passionate about practical AI, running local models with Ollama and LM Studio.
+* 🎯 Aiming to become an excellent Software/AI Engineer!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goyabai&show_icons=true&locale=en&layout=compact" alt="goyabai" /></p>
+### 📬 Contact information
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goyabai&show_icons=true&locale=en" alt="goyabai" /></p>
+* 📧 Email: [Đền email của bạn, vd: me@example.com]
+* 👤 Facebook: [Tên Facebook của bạn]
+* 💬 Discord: [Tên Discord của bạn]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goyabai&" alt="goyabai" /></p>
+### 📌 Discord Presence
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark)](https://discord.com/users/YOUR_DISCORD_ID)
+
+### ✈️ Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+</p>
+
+### 😜 Technologies I've used, learned or had experiences
+
+<p align="center">
+  <em>programming languages</em><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
+  </a>
+</p>
+
+<p align="center">
+  <em>tools, platforms & utilities</em><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,cmake" />
+  </a>
+</p>
+
+---
+<p align="center">
+  🥰 Thanks for reading my profile 💖
+</p>
