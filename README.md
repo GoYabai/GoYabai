@@ -47,3 +47,4 @@
 <p align="center">
   🥰 Thanks for reading my profile 💖
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Goyabai&show_icons=true&locale=en" alt="Goyabai" /></p>
