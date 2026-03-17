@@ -18,7 +18,7 @@
 
 ### 📌 Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/702848324193222657?theme=dark)](https://discord.com/users/702848324193222657)
+![Discord Presence](https://lanyard.cnrad.dev/api/702848324193222657?theme=dark)
 
 ### ✈️ Statistics
 
