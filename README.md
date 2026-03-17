@@ -24,12 +24,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoYabai&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goyabai&" alt="goyabai" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goyabai&" alt="Goyabai" /></p>
 </p>
 
 ### 😜 Technologies I've used, learned or had experiences
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoYabai&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 <p align="center">
   <em>programming languages</em><br>
   <a href="https://skillicons.dev">
