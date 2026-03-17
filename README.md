@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoYabai&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goyabai&" alt="goyabai" /></p>
 </p>
 
 ### 😜 Technologies I've used, learned or had experiences
@@ -47,4 +48,4 @@
 <p align="center">
   🥰 Thanks for reading my profile 💖
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Goyabai&show_icons=true&locale=en" alt="Goyabai" /></p>
+
