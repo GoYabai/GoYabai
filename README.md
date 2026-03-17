@@ -23,7 +23,8 @@
 ### ✈️ Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goyabai&" alt="Goyabai" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goyabai&" alt="Goyabai" /></p>
 </p>
 
 ### 😜 Technologies I've used, learned or had experiences
