@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=25&duration=5100&pause=1100&color=FF9800&center=true&vCenter=true&width=435&lines=Hello!+I'm+GoYabai)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=30&duration=5100&pause=1100&color=FF9800&center=true&vCenter=true&width=435&lines=+++++++++++++++++++++Hello!+I'm+GoYabai+%3C3)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&text=About%20me!&fontColor=ffffff&fontSize=40&descAlignY=51&descAlign=62" alt="About me banner" />
 </p>
