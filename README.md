@@ -13,12 +13,12 @@
 ### 📬 Contact information
 
 * 📧 Email: leduchuyqazzaq@gmail.com
-* 👤 Facebook: [Tên Facebook của bạn]
-* 💬 Discord: [Tên Discord của bạn]
+* 🥺 Facebook: [Lê Đức Huy](https://www.facebook.com/huy.lee.330467)
+* 💬 Discord: [GoYabai](https://discord.com/users/702848324193222657)
 
 ### 📌 Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark)](https://discord.com/users/YOUR_DISCORD_ID)
+[![Discord Presence](https://lanyard.cnrad.dev/api/702848324193222657?theme=dark)](https://discord.com/users/702848324193222657)
 
 ### ✈️ Statistics
 
