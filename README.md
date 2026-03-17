@@ -42,7 +42,7 @@
 <p align="center">
   <em>tools, platforms & utilities</em><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,cmake" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
 
