@@ -10,7 +10,7 @@
 * 🤖 Passionate about practical AI.
 * 🎯 Aiming to become an excellent Software/AI Engineer!
 
-<img align="right" width="300" src="https://github.com/GoYabai/GoYabai/blob/main/4b9103fe71b82f9ecc727eb818f1fc99-removebg-preview.png?raw=true" alt="Ảnh trang trí" />
+<img align="right" width="400" src="https://github.com/GoYabai/GoYabai/blob/main/4b9103fe71b82f9ecc727eb818f1fc99-removebg-preview.png?raw=true" alt="Ảnh trang trí" />
 
 ### 📬 Contact information
 
@@ -18,6 +18,8 @@
 * 🥺 Facebook: [Lê Đức Huy](https://www.facebook.com/huy.lee.330467)
 * 💬 Discord: [GoYabai](https://discord.com/users/702848324193222657)
 * 💼 linkedin: [Lê Đức Huy](https://www.linkedin.com/in/l%C3%AA-huy-441417296/)
+
+<img align="right" width="400" src="https://github.com/GoYabai/GoYabai/blob/main/7ed60a8686b2e6fd2f0976d41b99e2da.jpg?raw=true" alt="Ảnh trang trí" />
 
 ### 📌 Discord Presence
 
