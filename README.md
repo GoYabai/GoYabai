@@ -20,10 +20,9 @@
 * 💼 linkedin: [Lê Đức Huy](https://www.linkedin.com/in/l%C3%AA-huy-441417296/)
 
 ### 📌 Discord Presence
-
+<img align="right" width="200" src="https://github.com/GoYabai/GoYabai/blob/main/7ed60a8686b2e6fd2f0976d41b99e2da.jpg?raw=true" alt="Ảnh trang trí" />
 ![Discord Presence](https://lanyard.cnrad.dev/api/702848324193222657?theme=dark)
 
-<img align="right" width="200" src="https://github.com/GoYabai/GoYabai/blob/main/7ed60a8686b2e6fd2f0976d41b99e2da.jpg?raw=true" alt="Ảnh trang trí" />
 
 ### ✈️ Statistics
 
