@@ -7,7 +7,7 @@
 * 📈 Maintaining a strong academic record (GPA 3.90 in the recent semester).
 * 🌱 Currently deep diving into 🧮 Mathematics (Calculus, Linear Algebra) and CS Theory.
 * 💻 I love programming in ➕ C++, and 🐍 Python.
-* 🤖 Passionate about practical AI, running local models with Ollama and LM Studio.
+* 🤖 Passionate about practical AI.
 * 🎯 Aiming to become an excellent Software/AI Engineer!
 
 ### 📬 Contact information
