@@ -15,6 +15,7 @@
 * 📧 Email: leduchuyqazzaq@gmail.com
 * 🥺 Facebook: [Lê Đức Huy](https://www.facebook.com/huy.lee.330467)
 * 💬 Discord: [GoYabai](https://discord.com/users/702848324193222657)
+* 💼 linkedin: [Lê Đức Huy](https://www.linkedin.com/in/l%C3%AA-huy-441417296/)
 
 ### 📌 Discord Presence
 
