@@ -1,4 +1,4 @@
-### 💤 Hello! I'm [Tên của bạn], an AI student.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=500&size=25&duration=5100&pause=1100&color=FF9800&center=true&vCenter=true&width=435&lines=Hello!+I'm+GoYabai)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&text=About%20me!&fontColor=ffffff&fontSize=40&descAlignY=51&descAlign=62" alt="About me banner" />
@@ -6,15 +6,14 @@
 
 * 🎓 Student from 🌌 VNU-UET, 🇻🇳 Vietnam (Majoring in Artificial Intelligence).
 * 📈 Maintaining a strong academic record (GPA 3.90 in the recent semester).
-* 🌱 Currently deep diving into 🧮 Mathematics (Calculus, Linear Algebra, Differential Equations) and CS Theory.
-* 💻 I love programming in 🔵 C, ➕ C++, and 🐍 Python.
-* 🚀 Recently working on **Suterusu** - a C++ application utilizing AI models via OpenRouter APIs.
+* 🌱 Currently deep diving into 🧮 Mathematics (Calculus, Linear Algebra) and CS Theory.
+* 💻 I love programming in ➕ C++, and 🐍 Python.
 * 🤖 Passionate about practical AI, running local models with Ollama and LM Studio.
 * 🎯 Aiming to become an excellent Software/AI Engineer!
 
 ### 📬 Contact information
 
-* 📧 Email: [Đền email của bạn, vd: me@example.com]
+* 📧 Email: leduchuyqazzaq@gmail.com
 * 👤 Facebook: [Tên Facebook của bạn]
 * 💬 Discord: [Tên Discord của bạn]
 
