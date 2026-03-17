@@ -10,6 +10,8 @@
 * 🤖 Passionate about practical AI.
 * 🎯 Aiming to become an excellent Software/AI Engineer!
 
+<img align="right" width="300" src="https://github.com/GoYabai/GoYabai/blob/main/4b9103fe71b82f9ecc727eb818f1fc99-removebg-preview.png?raw=true" alt="Ảnh trang trí" />
+
 ### 📬 Contact information
 
 * 📧 Email: leduchuyqazzaq@gmail.com
