@@ -19,11 +19,13 @@
 * 💬 Discord: [GoYabai](https://discord.com/users/702848324193222657)
 * 💼 linkedin: [Lê Đức Huy](https://www.linkedin.com/in/l%C3%AA-huy-441417296/)
 
-<img align="right" width="200" src="https://github.com/GoYabai/GoYabai/blob/main/fe4b4436f5d3117935c9aa4622a0f7c2.jpg?raw=true" alt="Ảnh trang trí" />
-
 ### 📌 Discord Presence
 
+<img align="right" width="200" src="https://github.com/GoYabai/GoYabai/blob/main/fe4b4436f5d3117935c9aa4622a0f7c2.jpg?raw=true" alt="Ảnh trang trí" />
+
 ![Discord Presence](https://lanyard.cnrad.dev/api/702848324193222657?theme=dark)
+
+<br clear="both">
 
 ### ✈️ Statistics
 
