@@ -23,14 +23,16 @@
 ### ✈️ Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=GoYabai&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Goyabai&" alt="Goyabai" /></p>
 
 ### 😜 Technologies I've used, learned or had experiences
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoYabai&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+</p>
+<p align="center">
   <em>programming languages</em><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py" />
