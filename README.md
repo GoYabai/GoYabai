@@ -9,7 +9,6 @@
 </p>
 
 * 🎓 Student from 🌌 VNU-UET, 🇻🇳 Vietnam (Majoring in Artificial Intelligence).
-* 📈 Maintaining a strong academic record (GPA 3.90 in the recent semester).
 * 🌱 Currently deep diving into 🧮 Mathematics (Calculus, Linear Algebra) and CS Theory.
 * 💻 I love programming in ➕ C++, and 🐍 Python.
 * 🤖 Passionate about practical AI.
