@@ -69,6 +69,8 @@
   </a>
 </p>
 
+<img align="center" width="350" src="https://github.com/GoYabai/GoYabai/blob/main/7ed60a8686b2e6fd2f0976d41b99e2da.jpg?raw=true?raw=true" alt="Ảnh trang trí" />
+
 ---
 <p align="center">
   🥰 Thanks for reading my profile 💖
