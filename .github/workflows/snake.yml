@@ -1,19 +1,25 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 24 hours
+  # Chạy tự động vào nửa đêm mỗi ngày
   schedule:
     - cron: "0 0 * * *" 
-  # Allows you to run this workflow manually from the Actions tab
+  # Cho phép bạn bấm nút chạy thủ công
   workflow_dispatch:
+  # Chạy mỗi khi bạn có update mới lên nhánh main
+  push:
+    branches:
+    - main
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
-      # Generates the snake animation from your GitHub contributions graph
+      # Tạo ảnh động rắn ăn commit
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -21,10 +27,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Pushes the generated svg files to the 'output' branch
+      # Đẩy file ảnh vừa tạo lên một nhánh phụ tên là 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
