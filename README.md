@@ -50,26 +50,48 @@
   </picture>
 </p>
 
-### 😜 Technologies I've used, learned or had experiences
+<br clear="all">
+
+### 🤪 Technologies I've used, learned or had experiences & statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoYabai&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top" style="padding-right: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoYabai&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+      </td>
+
+      <td valign="top">
+        <p align="center"><em>programming languages</em></p>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=c,cpp,py" />
+          </a>
+        </p>
+        <br> <p align="center"><em>tools, platforms & utilities</em></p>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,cmake" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </p>
 <p align="center">
-  <em>programming languages</em><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f19&height=120&text=Welcome!&fontColor=ffffff&fontSize=40&descAlignY=51&descAlign=62" alt="Welcome banner" />
 </p>
 
 <p align="center">
-  <em>tools, platforms & utilities</em><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  </a>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=GoYabai&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
-<img width="350" src="https://github.com/GoYabai/GoYabai/blob/main/7ed60a8686b2e6fd2f0976d41b99e2da.jpg?raw=true?raw=true" alt="Ảnh trang trí" />
+<br>
+
+<p align="center">
+  <img width="350" src="ĐƯỜNG_LINK_ẢNH_MÈO_CỦA_BẠN_Ở_ĐÂY" alt="Character" />
+</p>
 
 ---
 <p align="center">
