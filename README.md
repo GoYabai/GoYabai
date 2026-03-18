@@ -34,6 +34,10 @@
 ### ✈️ Statistics
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GoYabai&theme=radical&row=1&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
   <img height="195" src="https://github-readme-stats.vercel.app/api?username=GoYabai&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=GoYabai&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
