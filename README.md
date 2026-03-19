@@ -35,6 +35,7 @@
 
 ### ✈️ Statistics
 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GoYabai&theme=tokyonight&row=1&margin-w=15" alt="Trophies" />
 </p>
