@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GoYabai)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
