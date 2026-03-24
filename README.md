@@ -16,7 +16,7 @@
 * 🤖 Passionate about practical AI.
 * 🎯 Aiming to become an excellent Software/AI Engineer!
 
-<img align="right" width="350" src="https://github.com/GoYabai/GoYabai/blob/main/4b9103fe71b82f9ecc727eb818f1fc99-removebg-preview.png?raw=true" alt="Ảnh trang trí" />
+<img align="right" width="350" src="https://github.com/GoYabai/GoYabai/blob/main/source/4b9103fe71b82f9ecc727eb818f1fc99-removebg-preview.png?raw=true" alt="Ảnh trang trí" />
 
 ### 📬 Contact information
 
@@ -27,7 +27,7 @@
 
 ### 📌 Discord Presence
 
-<img align="right" width="250" src="https://github.com/GoYabai/GoYabai/blob/main/fe4b4436f5d3117935c9aa4622a0f7c2.jpg?raw=true" alt="Ảnh trang trí" />
+<img align="right" width="250" src="https://github.com/GoYabai/GoYabai/blob/main/source/Untitled%20(2).png?raw=true" alt="Ảnh trang trí" />
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/702848324193222657?theme=dark)
 
@@ -69,7 +69,7 @@
 
 
 <p align="center">
-  <img width="350" src="https://github.com/GoYabai/GoYabai/blob/main/7ed60a8686b2e6fd2f0976d41b99e2da.jpg?raw=true" alt="Character" />
+  <img width="350" src="https://github.com/GoYabai/GoYabai/blob/main/source/Untitled%20(1).png?raw=true" alt="Character" />
 </p>
 
 ---
