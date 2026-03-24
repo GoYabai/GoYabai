@@ -27,7 +27,7 @@
 
 ### 📌 Discord Presence
 
-<img align="right" width="250" src="https://github.com/GoYabai/GoYabai/blob/main/source/Untitled%20(2).png?raw=true" alt="Ảnh trang trí" />
+<img align="right" width="400" src="https://github.com/GoYabai/GoYabai/blob/main/source/Untitled%20(2).png?raw=true" alt="Ảnh trang trí" />
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/702848324193222657?theme=dark)
 
@@ -69,7 +69,7 @@
 
 
 <p align="center">
-  <img width="350" src="https://github.com/GoYabai/GoYabai/blob/main/source/Untitled%20(1).png?raw=true" alt="Character" />
+  <img width="400" src="https://github.com/GoYabai/GoYabai/blob/main/source/Untitled%20(1).png?raw=true" alt="Character" />
 </p>
 
 ---
