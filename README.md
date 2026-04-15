@@ -12,7 +12,7 @@
 
 * 🎓 Student from 🌌 VNU-UET, 🇻🇳 Vietnam (Majoring in Artificial Intelligence).
 * 🌱 Currently deep diving into 🧮 Mathematics (Calculus, Linear Algebra) and CS Theory.
-* 💻 I love programming in ➕ C++, and 🐍 Python.
+* 💻 I "love" programming in ➕ C++, and 🐍 Python.
 * 🤖 Passionate about practical AI.
 * 🎯 Aiming to become an excellent Software/AI Engineer!
 
