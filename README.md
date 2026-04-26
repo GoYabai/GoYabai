@@ -25,6 +25,7 @@
 * 💬 Discord: [GoYabai](https://discord.com/users/702848324193222657)
 * 💼 linkedin: [Lê Đức Huy](https://www.linkedin.com/in/l%C3%AA-huy-441417296/)
 
+
 ### 📌 Discord Presence
 
 <img align="right" width="400" src="https://github.com/GoYabai/GoYabai/blob/main/source/Untitled%20(2).png?raw=true" alt="Ảnh trang trí" />
